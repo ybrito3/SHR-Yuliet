@@ -1,0 +1,52 @@
+@media (min-width: 768px) {
+	.footer-cta {
+		flex-wrap: nowrap !important;
+	}
+}
+
+.fa-times {
+	color: red;
+}
+
+.fa-check {
+	color: green;
+}
+
+@media (min-width: 576px) {
+	.nk-block-head-lg {
+		padding-bottom: 1.5rem;
+	}
+}
+.introjs-tooltiptext {
+	font-size: 12px;
+}
+
+.dataTables_info {
+	float: right;
+}
+
+@keyframes spin {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+.ColVis_collection .sub-text {
+    font-size: 12px;
+}
+
+.form-note {
+	padding-right: 20px;
+}
+
+.update-item p {
+	text-align: justify;
+	font-size: 13px;
+}
+
+.nk-menu-item.has-sub {
+	padding-right: 5px !important;
+}

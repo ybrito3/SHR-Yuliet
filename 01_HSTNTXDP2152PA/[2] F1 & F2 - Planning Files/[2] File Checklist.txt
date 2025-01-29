@@ -1,0 +1,18 @@
+
+*PDF | Schematic Planning File
+*Excel | LU Report
+*Excel | DA Addresses Scrub List Report
+*Excel | Business Portal Report
+
+
+Ref. Dropbox > FTH IFP Program Resources > E-Mail Templates > [3] BQC E-Mail Template (Planning-Schematic)
+
+
+=== STAGE 1 Byers QC will occur at this point ===
+
+
+*PDF | Prelim F2 Design entitled "Ready for BQC" with estimated cable path footages (Reviewed by BQC)
+
+*PDF | "BQC1" returned approved or correction needed.
+
+

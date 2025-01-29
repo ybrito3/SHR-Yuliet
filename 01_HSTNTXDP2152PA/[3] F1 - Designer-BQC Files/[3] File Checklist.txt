@@ -1,0 +1,13 @@
+
+*PDF | F1 FDR design file
+*EXCEL | CONTRACTOR CABLE SPAN BREAKDOWN *at BQC's discretion
+*EXCEL | Aramis Reconciliation Report
+*EXCEL | XGSPON Optical Budget Tool FiberWise_v6
+*PDF | ORCA 2.0 (AFTER BQC APPROVAL)
+
+When file upload complete:
+Ref. Dropbox > FTH IFP Program Resources > E-Mail Templates > [5] BQC E-Mail Template (F1 and F2 Designs to BQC)
+
+When BQC APPROVED:
+Ref. Dropbox > FTH IFP Program Resources > E-Mail Templates > [6] F1 and F2 Design E-Mail Template (PROJECT TURN INS to Tim Gables)
+

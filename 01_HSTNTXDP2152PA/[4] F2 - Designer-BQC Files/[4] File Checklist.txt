@@ -1,0 +1,16 @@
+
+*PDF | F2 DST design file
+*EXCEL | CONTRACTOR CABLE SPAN BREAKDOWN
+*EXCEL | Aramis Facilty Address Comparison
+*EXCEL | Aramis Reconciliation Report
+*EXCEL | Fiber Distribution Ribbon Worksheet file
+*PDF | ORCA 2.0 (AFTER BQC APPROVAL)
+*EXCEL | FA Scrub Macro
+
+When file upload complete:
+Ref. Dropbox > FTH IFP Program Resources > E-Mail Templates > [5] BQC E-Mail Template (F1 and F2 Designs to BQC)
+
+When BQC APPROVED:
+Ref. Dropbox > FTH IFP Program Resources > E-Mail Templates > [6] F1 and F2 Design E-Mail Template (PROJECT TURN INS to Tim Gables)
+
+
